@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Claudio", "Claudio\Claudio.csproj", "{57200A84-E9DC-4B4F-8DB8-4C2093AE33A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaveFormRendererLib", "..\..\..\..\..\Desktop\NAudio.WaveFormRenderer-master\WaveFormRendererLib\WaveFormRendererLib.csproj", "{3EFEF2D1-5D08-46FD-AF6D-098DBE7FB3B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taglib-sharp", "..\..\..\..\..\Desktop\taglib-sharp-master\src\taglib-sharp.csproj", "{6B143A39-C7B2-4743-9917-92262C60E9A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57200A84-E9DC-4B4F-8DB8-4C2093AE33A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57200A84-E9DC-4B4F-8DB8-4C2093AE33A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57200A84-E9DC-4B4F-8DB8-4C2093AE33A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57200A84-E9DC-4B4F-8DB8-4C2093AE33A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EFEF2D1-5D08-46FD-AF6D-098DBE7FB3B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFEF2D1-5D08-46FD-AF6D-098DBE7FB3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFEF2D1-5D08-46FD-AF6D-098DBE7FB3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFEF2D1-5D08-46FD-AF6D-098DBE7FB3B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B143A39-C7B2-4743-9917-92262C60E9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B143A39-C7B2-4743-9917-92262C60E9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B143A39-C7B2-4743-9917-92262C60E9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B143A39-C7B2-4743-9917-92262C60E9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
